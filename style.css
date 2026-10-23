@@ -1,8 +1,8 @@
-:root{--paper:#F6F5FA;--card:#fff;--ink:#1C1B29;--muted:#6C6A7E;--line:#E4E1EE;--acc:#5A3FA0;--acc-soft:#ECE7F8;--gold:#F2C86B}
-@media (prefers-color-scheme:dark){:root{--paper:#100F17;--card:#1B1A26;--ink:#ECEBF3;--muted:#9C99AE;--line:#2D2B3B;--acc:#B6A2F2;--acc-soft:#2C2547}}
+:root{--paper:#F8F4F3;--card:#fff;--ink:#22161A;--muted:#7A6A6E;--line:#EDE3E2;--acc:#8A2438;--acc-soft:#F6E4E3;--gold:#F2C86B}
+@media (prefers-color-scheme:dark){:root{--paper:#130D0F;--card:#1E1618;--ink:#F1E9EA;--muted:#A8989B;--line:#33282A;--acc:#F09A78;--acc-soft:#3A1F22}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:Figtree,system-ui,-apple-system,"Segoe UI",sans-serif;font-size:16px;line-height:1.55}
-.hero{background:linear-gradient(135deg,#0D1B33,#5A3FA0);color:#fff;padding:48px 20px 40px;text-align:center}
+.hero{background:linear-gradient(135deg,#5E1528,#C4683A);color:#fff;padding:48px 20px 40px;text-align:center}
 .hero svg{width:96px;height:96px;border-radius:22px;box-shadow:0 14px 30px -12px rgba(0,0,0,.5)}
 .hero h1{font-size:34px;margin:14px 0 2px;letter-spacing:-.02em}
 .hero .ar{font-family:"Amiri Quran","Amiri",serif;font-size:26px;opacity:.9}
